@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJBMediote&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ## Techs
+  ## My Favorites technologies
   
  <div style="display: inline-block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
