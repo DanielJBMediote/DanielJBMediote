@@ -3,7 +3,7 @@
 
 <div style="display:flex; justify-content:center; align-items:center;">
   <a href="https://github.com/DanielJBMediote">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielJBMediote&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielJBMediote&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJBMediote&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
