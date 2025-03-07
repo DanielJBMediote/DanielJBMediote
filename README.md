@@ -5,7 +5,7 @@
   <a href="https://github.com/DanielJBMediote">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielJBMediote&show_icons=true&theme=blueberry&hide-border=false&include_all_commits=true&count_private=true"/>
 
-![DanielJBMediote's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJBMediote&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+![DanielJBMediote's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJBMediote&theme=blueberry&show_icons=true&hide_border=false&layout=full)
 
   ## My Favorites technologies
   
